@@ -226,10 +226,10 @@ nav a:hover h4 {
 /*More Info Btn*/
 #more-icons{
   position: fixed;
-  box-shadow: 1px 1px 10px #0000002E;
-  background: #FFF0D3;
+  background: #382400;
   padding: 5px;
   border-radius: 10px;
+  left: 3%;
 }
 
 /*Books Section*/
